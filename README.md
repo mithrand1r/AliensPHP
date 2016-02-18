@@ -1,2 +1,2 @@
 Aliens demo project om integratie van PHP, MySQL, Git en Azure te demonstreren
-QNH 2016
+QNH 2016.
