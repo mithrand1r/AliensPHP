@@ -25,10 +25,10 @@
 </form>
 <?php
 	// DB connection info
-    $host = "localhost";
-    $user = "root";
-    $pwd = "AliensDemo01";
-    $db = "test";
+    $host = "eu-cdbr-azure-west-d.cloudapp.net";
+    $user = "b2105455877f03";
+    $pwd = "08dc8a98";
+    $db = "acsm_bb86a7ed8ac14d0";
     // Zet DB connection op.
     try {
         $conn = new PDO( "mysql:host=$host;dbname=$db", $user, $pwd);
