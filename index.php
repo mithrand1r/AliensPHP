@@ -55,7 +55,7 @@
     catch(Exception $e) {
         die(var_dump($e));
     }
-    echo "<h3>Je bent geregistreerd!</h3>";
+    echo "<h3>U bent geregistreerd!</h3>";
     }
     // Haal data op
     $sql_select = "SELECT * FROM registration_tbl";
