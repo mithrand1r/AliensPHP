@@ -16,7 +16,7 @@
 </style>
 </head>
 <body>
-<h1>Registreer hier!</h1>
+<h1>Hoi Hester, Registreer hier!</h1>
 <p>Vul je naam en emailadres in en klik op <strong>Registreer</strong>.</p>
 <form method="post" action="index.php" enctype="multipart/form-data" >
       Naam  <input type="text" name="name" id="name"/></br>
